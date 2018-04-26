@@ -318,7 +318,6 @@ To run the unit tests, open your terminal and navigate to `restful-service/guide
 
 To check the implementation of the test file, refer to the [order_mgt_service_test.bal](https://github.com/ballerina-guides/restful-service/blob/master/guide/restful_service/tests/order_mgt_service_test.bal).
 
-
 ## Deployment
 
 Once you are done with the development, you can deploy the service using any of the methods that we listed below. 
